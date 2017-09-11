@@ -508,4 +508,7 @@
 
   <include name="snippets/cm.xml" />
 
+  <!-- OMS support -->
+  <include name="snippets/oms.xml" />
+
 </manifest>
